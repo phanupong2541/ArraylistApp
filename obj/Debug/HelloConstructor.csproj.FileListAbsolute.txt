@@ -1,0 +1,15 @@
+D:\BornTodev\OOP-4\HelloConstructor\bin\Debug\HelloConstructor.exe.config
+D:\BornTodev\OOP-4\HelloConstructor\bin\Debug\HelloConstructor.exe
+D:\BornTodev\OOP-4\HelloConstructor\bin\Debug\HelloConstructor.pdb
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\HelloConstructor.csprojAssemblyReference.cache
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\MainWindow.g.cs
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\App.g.cs
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\HelloConstructor_MarkupCompile.cache
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\HelloConstructor_MarkupCompile.lref
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\MainWindow.baml
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\HelloConstructor.g.resources
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\HelloConstructor.Properties.Resources.resources
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\HelloConstructor.csproj.GenerateResource.cache
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\HelloConstructor.csproj.CoreCompileInputs.cache
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\HelloConstructor.exe
+D:\BornTodev\OOP-4\HelloConstructor\obj\Debug\HelloConstructor.pdb
