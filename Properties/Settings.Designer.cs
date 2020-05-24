@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HelloConstructor.Properties
+namespace ArraylistApp.Properties
 {
 
 
